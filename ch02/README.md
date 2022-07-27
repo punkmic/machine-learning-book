@@ -1,4 +1,5 @@
 ##  Chapter 2: Training Simple Machine Learning Algorithms for Classification
+Matheus
 
 ### Chapter Outline
 
